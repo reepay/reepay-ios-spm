@@ -21,6 +21,6 @@ let package = Package(
         .binaryTarget(
             name: "ReepayCheckoutSheet",
             url: "https://github.com/reepay/reepay-ios/releases/download/1.1.2/Reepay.xcframework.zip",
-            checksum: "2615d635dd3af5dde7c923961101277adbcaec59c508f071abd5f0eaa7a609df"
+            checksum: "3f090fa29e495c85ceacd669f41f3f7698a079ad2886d49f85c2ea94b8dbcd28"
         ),
     ])
