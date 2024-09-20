@@ -15,12 +15,12 @@ let package = Package(
             targets: ["ReepayCheckoutSheet"]),
     ],
     dependencies: [
-        .package(name: "Reepay", url: "https://github.com/reepay/reepay-ios.git", from: "1.1.4"),
+        .package(name: "Reepay", url: "https://github.com/reepay/reepay-ios.git", from: "1.1.5"),
     ],
     targets: [
         .binaryTarget(
             name: "ReepayCheckoutSheet",
-            url: "https://github.com/reepay/reepay-ios/releases/download/1.1.4/Reepay.xcframework.zip",
-            checksum: "d0f662e673a5b6f236040a0684d2d82f29f3a21d150b5564d5634d782e391ffd"
+            url: "https://github.com/reepay/reepay-ios/releases/download/1.1.5/Reepay.xcframework.zip",
+            checksum: "9b13f5dabfa181f287ca7d75f7d721a8b90bed2366b092fb3c57aa82a0de0eb5"
         ),
     ])
